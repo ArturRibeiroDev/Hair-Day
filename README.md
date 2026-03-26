@@ -31,40 +31,6 @@ Um sistema de agendamento para pet shop, onde é possível visualizar, criar e c
 
 ---
 
-## 📂 Estrutura do projeto
-# 🐶 Hair Day
-
-Um sistema de agendamento para pet shop, onde é possível visualizar, criar e cancelar atendimentos de forma simples e organizada.
-
----
-
-## ✨ Funcionalidades
-
-- 📅 Visualização de agendamentos por dia
-- ⏰ Separação automática por períodos:
-  - Manhã (09h - 12h)
-  - Tarde (13h - 18h)
-  - Noite (19h - 21h)
-- ➕ Criação de novos agendamentos
-- ❌ Cancelamento de agendamentos
-- 🚫 Bloqueio de horários já ocupados
-- 🕒 Restrição de horários:
-  - Apenas entre 09:00 e 21:00
-  - Horários passados são bloqueados automaticamente
-- 📱 Interface simples e intuitiva
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript (ES Modules)
-- Day.js
-- JSON Server (API fake)
-
----
-
 ---
 
 ## ⚙️ Como funciona
