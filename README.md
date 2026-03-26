@@ -1,6 +1,6 @@
-# 🐶 Hair Day
+# ✂ Hair Day
 
-Um sistema de agendamento para pet shop, onde é possível visualizar, criar e cancelar atendimentos de forma simples e organizada.
+Um sistema de agendamento para cabeleleiro, onde é possível visualizar, criar e cancelar atendimentos de forma simples e organizada.
 
 ---
 
